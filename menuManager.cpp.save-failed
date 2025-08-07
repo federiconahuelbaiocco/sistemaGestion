@@ -1,0 +1,56 @@
+#include<iostream>
+
+#include "menu.h"
+
+using namespace std;
+
+MenuManager::MenuManager(){
+    MenuManager::menuActual = -1;
+    MenuManager::inicial = new InicioSesion(*this);
+}
+MenuManager::~MenuManager(){
+    delete[] menus;
+}
+void MenuManager::setUsuario(Empleado* empleado){
+    MenuManager::empleado = empleado;
+}
+void MenuManager::cargarMenus(){
+    MenuManager::menus[0] = new MenuPrincipal(*this, MenuManager::empleado->esAdmin());
+
+}
+void MenuManager::cambiarMenuActual(int indice){
+    MenuManager::menuActual = indice;
+}
+void MenuManager::seleccionarOpcion(){
+    MenuManager::opcionSeleccionada = -1;
+    std::cout << std::endl;
+    std::cout << "Seleccionar Opcion: ";
+    std::cin >> MenuManager::opcionSeleccionada;
+    if(MenuManager::opcionSeleccionada == 0){
+        cambiarMenuActual(MenuManager::menus[menuActual]->menuAnterior);
+    }else if(MenuManager::opcionSeleccionada > 0 && MenuManager::menus[menuActual]->estaEnRango(MenuManager::opcionSeleccionada)){
+        MenuManager::menus[menuActual]->accion(MenuManager::opcionSeleccionada);
+    }else{
+        system("cls");
+        std::cout << "Opcion incorrecta" << std::endl;
+        return;
+    }
+}
+void MenuManager::mostrarMenu(){
+    MenuManager::menus[menuActual]->mostrarTitulo();
+    MenuManager::menus[menuActual]->mostrarOpciones();
+    MenuManager::seleccionarOpcion();
+}
+void MenuManager::bucle(){
+    while(MenuManager::buclePrincipal){
+        if(MenuManager::menuActual == -1){
+            MenuManager::inicial->accion(0);
+        }else{
+            MenuManager::mostrarMenu();
+        }
+        std::cout << MenuManager::menuActual << std::endl;
+    }
+}
+
+
+

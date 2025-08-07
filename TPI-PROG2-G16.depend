@@ -1,0 +1,556 @@
+# depslib dependency file v1.0
+1731465398 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\main.cpp
+	<iostream>
+	"menu.h"
+	"Globales.h"
+	"Persona.h"
+
+1731265146 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\menu.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Globales.h"
+	"menu.h"
+
+1731465767 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\menu.h
+	"Persona.h"
+	"Producto.h"
+
+1731466915 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\menumanager.cpp
+	<iostream>
+	"menu.h"
+
+1731160033 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\menumanager.h
+	"menu.h"
+
+1731021656 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\menumanager.cpp
+	<iostream>
+	"menuManager.h"
+
+1731156574 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1731152020 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\fecha.h
+
+1731335711 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\globales.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Globales.h"
+	"Persona.h"
+
+1731269456 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\globales.h
+	"Persona.h"
+	"Producto.h"
+
+1731340216 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\persona.cpp
+	<iostream>
+	"Globales.h"
+	"Persona.h"
+
+1731335466 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\persona.h
+	"Fecha.h"
+	"Producto.h"
+
+1731452097 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\producto.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Producto.h"
+	"archivoProducto.h"
+	<cctype>
+	<limits>
+
+1730834516 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\producto.h
+
+1731467142 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\menunavigator.cpp
+	<iostream>
+	<cstring>
+	"Globales.h"
+	"menu.h"
+
+1731495564 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\productoticket.cpp
+	<iostream>
+	"ProductoTicket.h"
+	<cstring>
+
+1731495535 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\ticket.cpp
+	<iostream>
+	"Ticket.h"
+
+1731495166 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\ticket.h
+	"Persona.h"
+	"Fecha.h"
+	"ProductoTicket.h"
+
+1731495101 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\menuejecutions.cpp
+	<iostream>
+	<cstring>
+	"Globales.h"
+	"menu.h"
+	"Producto.h"
+	"archivoProducto.h"
+	"Listados.h"
+	"Consultas.h"
+	"Ticket.h"
+	"ProductoTIcket.h"
+
+1731156574 source:c:\users\pc\desktop\tpi-prog2-g16\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1731152020 c:\users\pc\desktop\tpi-prog2-g16\fecha.h
+
+1731269766 source:c:\users\pc\desktop\tpi-prog2-g16\main.cpp
+	<iostream>
+	"menu.h"
+	"Globales.h"
+	"Persona.h"
+
+1731450662 c:\users\pc\desktop\tpi-prog2-g16\menu.h
+	"Persona.h"
+	"Producto.h"
+
+1731335466 c:\users\pc\desktop\tpi-prog2-g16\persona.h
+	"Fecha.h"
+	"Producto.h"
+
+1730834516 c:\users\pc\desktop\tpi-prog2-g16\producto.h
+
+1731269456 c:\users\pc\desktop\tpi-prog2-g16\globales.h
+	"Persona.h"
+	"Producto.h"
+
+1731265146 source:c:\users\pc\desktop\tpi-prog2-g16\menu.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Globales.h"
+	"menu.h"
+
+1731452045 source:c:\users\pc\desktop\tpi-prog2-g16\menuejecutions.cpp
+	<iostream>
+	<cstring>
+	"Globales.h"
+	"menu.h"
+	"Producto.h"
+	"archivoProducto.h"
+	"Listados.h"
+	"Consultas.h"
+
+1731340216 source:c:\users\pc\desktop\tpi-prog2-g16\persona.cpp
+	<iostream>
+	"Globales.h"
+	"Persona.h"
+
+1731452097 source:c:\users\pc\desktop\tpi-prog2-g16\producto.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Producto.h"
+	"archivoProducto.h"
+	<cctype>
+	<limits>
+
+1731418368 source:c:\users\pc\desktop\tpi-prog2-g16\productoticket.cpp
+	<iostream>
+	"Producto.h"
+
+1731418409 source:c:\users\pc\desktop\tpi-prog2-g16\ticket.cpp
+	<iostream>
+	"Ticket.h"
+
+1731418430 c:\users\pc\desktop\tpi-prog2-g16\ticket.h
+	"Producto.h"
+	"Persona.h"
+	"Fecha.h"
+
+1731335711 source:c:\users\pc\desktop\tpi-prog2-g16\globales.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Globales.h"
+	"Persona.h"
+
+1731450765 source:c:\users\pc\desktop\tpi-prog2-g16\menumanager.cpp
+	<iostream>
+	"menu.h"
+
+1731450893 source:c:\users\pc\desktop\tpi-prog2-g16\menunavigator.cpp
+	<iostream>
+	<cstring>
+	"Globales.h"
+	"menu.h"
+
+1731418225 c:\users\pc\desktop\tpi-prog2-g16\archivoproducto.h
+	"Producto.h"
+
+1731418191 source:c:\users\pc\desktop\tpi-prog2-g16\archivoproducto.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<limits>
+	"Producto.h"
+	"archivoProducto.h"
+
+1731441218 source:c:\users\pc\desktop\tpi-prog2-g16\listados.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Listados.h"
+	"Producto.h"
+	"archivoProducto.h"
+
+1731440793 c:\users\pc\desktop\tpi-prog2-g16\listados.h
+	"Producto.h"
+
+1731441218 c:\users\pc\desktop\tpi-prog2-g16\consultas.h
+
+1731441415 source:c:\users\pc\desktop\tpi-prog2-g16\consultas.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Consultas.h"
+	"Producto.h"
+	"archivoProducto.h"
+
+1731493932 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\archivoproducto.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<limits>
+	"Producto.h"
+	"archivoProducto.h"
+
+1731418225 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\archivoproducto.h
+	"Producto.h"
+
+1731441415 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\consultas.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Consultas.h"
+	"Producto.h"
+	"archivoProducto.h"
+
+1731441218 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\consultas.h
+
+1731441218 source:c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\listados.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Listados.h"
+	"Producto.h"
+	"archivoProducto.h"
+
+1731440793 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\listados.h
+	"Producto.h"
+
+1731495560 c:\users\ferna_tsiqs9b\documents\programacion\prac\tpi\tpi-prog2-g16\productoticket.h
+	"Producto.h"
+
+1731503692 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\archivoproducto.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<limits>
+	"Producto.h"
+	"archivoProducto.h"
+
+1730834516 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\producto.h
+
+1731418224 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\archivoproducto.h
+	"Producto.h"
+
+1731506483 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\consultas.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Consultas.h"
+	"Producto.h"
+	"Persona.h"
+	"archivoProducto.h"
+	"archivoProveedor.h"
+
+1731506531 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\consultas.h
+
+1731156574 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1731152020 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\fecha.h
+
+1731335710 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\globales.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Globales.h"
+	"Persona.h"
+
+1731269456 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\globales.h
+	"Persona.h"
+	"Producto.h"
+
+1731503909 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\persona.h
+	"Fecha.h"
+	"Producto.h"
+
+1731506130 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\listados.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Listados.h"
+	"Producto.h"
+	"Persona.h"
+	"archivoProveedor.h"
+	"archivoProducto.h"
+
+1731505660 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\listados.h
+	"Producto.h"
+	"Persona.h"
+
+1731465398 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\main.cpp
+	<iostream>
+	"menu.h"
+	"Globales.h"
+	"Persona.h"
+
+1731465766 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\menu.h
+	"Persona.h"
+	"Producto.h"
+
+1731265146 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\menu.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Globales.h"
+	"menu.h"
+
+1731506623 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\menuejecutions.cpp
+	<iostream>
+	<cstring>
+	"Globales.h"
+	"menu.h"
+	"Producto.h"
+	"archivoProducto.h"
+	"archivoProveedor.h"
+	"Listados.h"
+	"Consultas.h"
+	"Ticket.h"
+	"ProductoTIcket.h"
+
+1731495166 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\ticket.h
+	"Persona.h"
+	"Fecha.h"
+	"ProductoTicket.h"
+
+1731495560 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\productoticket.h
+	"Producto.h"
+
+1731466914 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\menumanager.cpp
+	<iostream>
+	"menu.h"
+
+1731500505 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\menunavigator.cpp
+	<iostream>
+	<cstring>
+	"Globales.h"
+	"menu.h"
+
+1731504192 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\persona.cpp
+	<iostream>
+	"Globales.h"
+	"Persona.h"
+	"archivoProveedor.h"
+
+1731452096 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\producto.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Producto.h"
+	"archivoProducto.h"
+	<cctype>
+	<limits>
+
+1731495564 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\productoticket.cpp
+	<iostream>
+	"ProductoTicket.h"
+	<cstring>
+
+1731495534 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\ticket.cpp
+	<iostream>
+	"Ticket.h"
+
+1731503750 c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\archivoproveedor.h
+	"Persona.h"
+
+1731503892 source:c:\users\ferna_tsiqs9b\documents\programacion\tpi-prog2-g16\archivoproveedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<limits>
+	"Persona.h"
+	"archivoProveedor.h"
+
+1731610084 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\archivoproducto.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<limits>
+	"Producto.h"
+	"archivoProducto.h"
+
+1731610085 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\producto.h
+
+1731610084 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\archivoproducto.h
+	"Producto.h"
+
+1731610084 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\archivoproveedor.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	<cctype>
+	<limits>
+	"Persona.h"
+	"archivoProveedor.h"
+
+1731610085 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\persona.h
+	"Fecha.h"
+	"Producto.h"
+
+1731610085 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\fecha.h
+
+1731610084 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\archivoproveedor.h
+	"Persona.h"
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\consultas.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Consultas.h"
+	"Producto.h"
+	"Persona.h"
+	"archivoProducto.h"
+	"archivoProveedor.h"
+
+1731610085 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\consultas.h
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\fecha.cpp
+	<iostream>
+	<ctime>
+	"Fecha.h"
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\globales.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Globales.h"
+	"Persona.h"
+
+1731610085 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\globales.h
+	"Persona.h"
+	"Producto.h"
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\listados.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Listados.h"
+	"Producto.h"
+	"Persona.h"
+	"archivoProveedor.h"
+	"archivoProducto.h"
+
+1731610085 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\listados.h
+	"Producto.h"
+	"Persona.h"
+
+1731611573 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\main.cpp
+	<iostream>
+	"menu.h"
+	"Globales.h"
+	"Persona.h"
+	"Informes.h"
+
+1731695355 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\menu.h
+	"Persona.h"
+	"Producto.h"
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\menu.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	"Globales.h"
+	"menu.h"
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\menuejecutions.cpp
+	<iostream>
+	<cstring>
+	"Globales.h"
+	"menu.h"
+	"Producto.h"
+	"archivoProducto.h"
+	"archivoProveedor.h"
+	"Listados.h"
+	"Consultas.h"
+	"Ticket.h"
+	"ProductoTIcket.h"
+
+1731610085 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\ticket.h
+	"Persona.h"
+	"Fecha.h"
+	"ProductoTicket.h"
+
+1731610085 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\productoticket.h
+	"Producto.h"
+
+1731695364 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\menumanager.cpp
+	<iostream>
+	"menu.h"
+
+1731695372 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\menunavigator.cpp
+	<iostream>
+	<cstring>
+	"Globales.h"
+	"menu.h"
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\persona.cpp
+	<iostream>
+	"Globales.h"
+	"Persona.h"
+	"archivoProveedor.h"
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\producto.cpp
+	<iostream>
+	<cstdlib>
+	<cstring>
+	"Producto.h"
+	"archivoProducto.h"
+	<cctype>
+	<limits>
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\productoticket.cpp
+	<iostream>
+	"ProductoTicket.h"
+	<cstring>
+
+1731610085 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\ticket.cpp
+	<iostream>
+	"Ticket.h"
+
+1731611664 source:d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\informes.cpp
+	"Informes.h"
+	<iostream>
+
+1731611664 d:\recursos-utn-para-estudiar\segundo-cuatri\programacion\tpi-prog2-g16\informes.h
+	"archivoProducto.h"
+
